@@ -20,4 +20,10 @@ tags
 # Persistent undo
 [._]*.un~
 
+# mdBook
+book
+src/ch*.md
+src/README.md
+index.html
+
 # End of https://www.toptal.com/developers/gitignore/api/vim
